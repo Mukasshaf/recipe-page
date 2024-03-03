@@ -13,7 +13,7 @@ In this project, I created a responsive recipe page using HTML and CSS. The goal
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://mukasshaf.github.io/recipe-page/)
 
 ### Built with
 
