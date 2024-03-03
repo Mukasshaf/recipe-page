@@ -1,0 +1,87 @@
+#maindiv {
+    background-color: white;
+    border-radius: 25px;
+    margin: 15vh 20vw;
+    padding: 50px;
+    opacity: 0.8;
+}
+
+html {
+    background-color: hsl(30, 54%, 90%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+img {
+    width: 100%;
+    padding: 0px;
+    border-radius: 25px;
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+}
+
+#prep {
+    background-color: hsl(312, 88%, 97%);
+    padding: 20px;
+    /* margin: 30px; */
+    border-radius: 25px;
+    /* color: hsl(332, 51%, 32%); */
+
+}
+
+li::marker {
+    color: hsl(14, 45%, 36%);
+}
+
+#prep li::marker {
+    color: hsl(332, 51%, 32%);
+}
+
+ol li::marker {
+    color: hsl(14, 45%, 36%);
+    font-weight: 500;
+}
+
+span {
+    font-weight: bold;
+    font-weight: 700;
+}
+h1{
+    font-family: "Young Serif", serif;
+}
+h2 {
+
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+    font-style: normal;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    /* margin: 25px; */
+}
+
+.bord {
+    border-bottom: 1px solid black;
+
+}
+
+td {
+    padding: 10px;
+}
+
+[energy] {
+    color: hsl(14, 45%, 36%); 
+
+
+
+
+
+ 
+}
