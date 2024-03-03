@@ -12,7 +12,7 @@ In this project, I created a responsive recipe page using HTML and CSS. The goal
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-using-html-and-css-noQkSEDlj8)
 - Live Site URL: [Live site](https://mukasshaf.github.io/recipe-page/)
 
 ### Built with
